@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](https://github.com/murilors10/murilosilva.github.io/blob/master/files/CV.pdf)
+<a href="https://github.com/murilors10/murilosilva.github.io/blob/master/files/CV.pdf" target="_blank" rel="noopener noreferrer">Download CV Here</a>.
+
+<!-- [Download CV Here](https://github.com/murilors10/murilosilva.github.io/blob/master/files/CV.pdf) -->
