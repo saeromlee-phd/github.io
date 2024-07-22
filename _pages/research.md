@@ -7,7 +7,7 @@ permalink: /research/
 **** 
 
 ## Job Market Paper
-### [Sleep and Fatal Vehicle Crashes: Evidence from Sunset Time in the United States](https://jingyanguo.com/files/Jingyan_Guo_Sleep_and_Fatal_Vehicle_Crashes_Evidence_from_Sunset_Time_in_the_United_States_Feb_17_2024.pdf)
+### [Climate Disaster Risk and Stock Returns](https://jingyanguo.com/files/Jingyan_Guo_Sleep_and_Fatal_Vehicle_Crashes_Evidence_from_Sunset_Time_in_the_United_States_Feb_17_2024.pdf)
 Adequate sleep is critical for overall healthy functioning. Insufficient sleep has been linked to a decline in attention and cognitive function, which poses a potential risk for vehicle crashes. This paper aims to study the impact of sleep on fatal vehicle crashes. For the short-term analysis, I explored the variation in sunset times throughout the year in a specific location. By using sunset time as an instrument, I found that a one-hour delay in sunset leads to a decrease of approximately 48 minutes in monthly sleep duration. Additionally, a one-hour increase in monthly sleep leads to about a 2.4% reduction in fatalities. For the long-term analysis, I employed two different approaches. First, I utilized the geographical variation in sunset time across counties within a time zone. However, the results from this approach were not statistically significant. Second, I applied spatial regression discontinuity, focusing on the timing of sunset at a time-zone boundary. From 2004 to 2013, I found that employed individuals sleep less on the later sunset side of the time zone border. However, from 2014 to 2019, they actually sleep more on the later sunset side. Interestingly, traffic fatalities were lower on the late sunset side from 2004 to 2013 but higher from 2014 to 2019. 
 
 **** 
