@@ -7,8 +7,8 @@ permalink: /research/
 **** 
 
 ## Job Market Paper
-### [Climate Disaster Risk and Stock Returns](http://murilors10.github.io/murilosilva.github.io/files/draft_jmp.pdf)
-I examine whether climate disaster risk is priced in the cross-section of U.S. stock returns. I construct national and state-level climate disaster indices for the Contiguous United States. When estimating stock return covariance with these indices, I find that stocks with a higher climate disaster beta earn lower future returns. In particular, this negative relation between climate disaster beta and future returns becomes more pronounced following times of heightened disaster risk. These findings are consistent with the rare-disaster literature and the asset pricing implications of demand for stocks with high potential to hedge against climate risk. I further show that geographically dispersed business operations and high cash holdings pay off when the market is concerned about climate change risk. 
+### [Climate Disaster Risk and Stock Returns](http://murilors10.github.io/murilosilva.github.io/files/jmp_murilo_silva.pdf)
+This paper investigates whether climate disaster risk is priced in the cross-section of U.S. stock returns. I construct national and state-level climate disaster indices for the Contiguous United States based on the physical strength of acute climate hazards (storms, floods, droughts, and heatwaves). These indices are used to estimate stock return covariance with physical climate risk, which leads to finding that safer stocks, those with a higher climate disaster beta, earn lower future returns. In particular, this negative relation between climate disaster beta and future returns becomes more pronounced following times of heightened disaster risk. This paper further shows that geographically dispersed business operations and high cash holdings pay off when the market is concerned about climate change risk. These findings are consistent with the risk-return tradeoff and the asset pricing implications of demand for stocks with high potential to hedge against climate risk.
 
 **** 
 ## Journal Publications
@@ -27,5 +27,10 @@ We illustrate through a case study that regressive prediction is the best method
 
 ****
 ## Work in Progress
+
+### Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations (with [Jana Grittersova](http://janagritters.com/) and [Eleonora Mavroeidi](https://scholar.google.co.uk/citations?user=ZP_C9nkAAAAJ&hl=en))
+
+### Climate Change in Europe (with [Marcelle Chauvet](https://sites.google.com/site/marcellechauvet/) and [Claudio Morana](https://sites.google.com/unimib.it/claudio-morana))
+
 
 
