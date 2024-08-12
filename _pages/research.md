@@ -30,7 +30,7 @@ We illustrate through a case study that regressive prediction is the best method
 
 ### Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations (with [Jana Grittersova](http://janagritters.com/) and [Eleonora Mavroeidi](https://scholar.google.co.uk/citations?user=ZP_C9nkAAAAJ&hl=en))
 
-### Climate Change in Europe (with [Marcelle Chauvet](https://sites.google.com/site/marcellechauvet/) and [Claudio Morana](https://sites.google.com/unimib.it/claudio-morana))
+### Evolving Climate Risk in Europe (with [Marcelle Chauvet](https://sites.google.com/site/marcellechauvet/) and [Claudio Morana](https://sites.google.com/unimib.it/claudio-morana))
 
 
 
