@@ -17,4 +17,4 @@ My research interests are in Macroeconomics, Finance, and Climate Change.
 
 My CV can be found [here](http://murilors10.github.io/murilosilva.github.io/files/CV.pdf).
 
-My job market paper can be found [here](http://murilors10.github.io/murilosilva.github.io/files/CV.pdf).
+My job market paper can be found [here](http://murilors10.github.io/murilosilva.github.io/files/jmp_murilo_silva.pdf).
