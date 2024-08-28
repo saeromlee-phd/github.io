@@ -12,7 +12,7 @@ title                    : "Murilo Silva"
 title_separator          : "-"
 name                     : &name "Murilo Silva"
 description              : &description "PhD Candidate in Economics, UC Riverside"
-url                      : https://murilors10.github.io/murilosilva.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://murilo-silva.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "murilors10/murilosilva.github.io"
 
