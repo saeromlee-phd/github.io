@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="http://murilo-silva.com/files/CV.pdf" target="_blank" rel="noopener noreferrer">Download CV Here</a>.
+<a href="https://murilo-silva.com/files/CV.pdf" target="_blank" rel="noopener noreferrer">Download CV Here</a>.
 
-<!-- [Download CV Here](http://murilo-silva.com/blob/master/files/CV.pdf) -->
+<!-- [Download CV Here](https://murilo-silva.com/blob/master/files/CV.pdf) -->
