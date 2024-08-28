@@ -7,7 +7,7 @@ permalink: /research/
 **** 
 
 ## Job Market Paper
-### [Climate Disaster Risk and Stock Returns](http://murilo-silva.com/files/jmp_murilo_silva.pdf)
+### [Climate Disaster Risk and Stock Returns](https://murilo-silva.com/files/jmp_murilo_silva.pdf)
 This paper investigates whether climate disaster risk is priced in the cross-section of U.S. stock returns. I construct national and state-level climate disaster indices for the Contiguous United States based on the physical strength of acute climate hazards (storms, floods, droughts, and heatwaves). These indices are used to estimate stock return covariance with physical climate risk, which leads to finding that safer stocks, those with a higher climate disaster beta, earn lower future returns. In particular, this negative relation between climate disaster beta and future returns becomes more pronounced following times of heightened disaster risk. This paper further shows that geographically dispersed business operations and high cash holdings pay off when the market is concerned about climate change risk. These findings are consistent with the risk-return tradeoff and the asset pricing implications of demand for stocks with high potential to hedge against climate risk.
 
 **** 
