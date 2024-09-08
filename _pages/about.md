@@ -15,6 +15,6 @@ I am on the job market this 2024/2025.
 
 My research interests are in Macroeconomics, Finance, Applied Econometrics and Climate Change.
 
-My CV can be found [here](https://murilo-silva.com/files/CV.pdf).
+My CV can be found [here](https://murilo-silva.com/files/cv_murilo_silva.pdf).
 
 My job market paper can be found [here](https://murilo-silva.com/files/jmp_murilo_silva.pdf).
