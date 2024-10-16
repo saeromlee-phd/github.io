@@ -66,8 +66,7 @@ something, and is more than willing to review a problem anyone needs help on.
 
 - I really liked this TA, he is a nice person, but more importantly, he holds a great understanding for the material and helps breakdown complex topics into simple and fun lessons. He is the reason I have an A+ in the class. Thank you Murilo!!
 
-- One of the best TAs at UCR, in my opinion. Always willing to help and made sure to answer all of our questions. Responded to emails rea
-fast, even on weekend which is awesome.
+- One of the best TAs at UCR, in my opinion. Always willing to help and made sure to answer all of our questions. Responded to emails really fast, even on weekend which is awesome.
 
 - He is great. I understood the class material much better after attending office hours and discussion. He was patient and easy to understand in emails. He is good with names which is also nice because he remembers the people he helps.
 
