@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. Candidate in Economics at University of California, Riverside.
+I am a Ph.D. Candidate in Economics at the University of California, Riverside.
 
 I am on the job market this 2024/2025.
 
