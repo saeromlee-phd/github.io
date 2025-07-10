@@ -9,12 +9,8 @@ redirect_from:
 
 Welcome!
 
-I am a Ph.D. Candidate in Economics at the University of California, Riverside.
-
-I am on the job market this 2024/2025.
+I received my Ph.D. in Economics from the University of California - Riverside in June 2025 and will join [Union College](https://www.union.edu/economics) as a Visiting Assistant Professor of Economics this Fall 2025.
 
 My research interests are in Macroeconomics, Finance, Applied Econometrics and Climate Change.
 
 My CV can be found [here](https://murilo-silva.com/files/cv_murilo_silva.pdf).
-
-My job market paper can be found [here](https://murilo-silva.com/files/climate-disaster-risk-and-stock-returns.pdf).
