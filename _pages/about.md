@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I received my Ph.D. in Economics from the University of California - Riverside in June 2025 and will join [Union College](https://www.union.edu/economics) as a Visiting Assistant Professor of Economics this Fall 2025.
+I am a Visiting Assistant Professor of Economics at [Union College](https://www.union.edu/economics).
 
 My research interests are in Macroeconomics, Finance, Applied Econometrics and Climate Change.
 
