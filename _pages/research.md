@@ -20,7 +20,7 @@ Grittersova, J., Mavroeidi, E., and **Silva, M.** (2025). Fifty Shades of Green:
 
 [4] **Silva, M.**, and Da Silva, S. (2020). [The Brazilian granular business cycle](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I1-P40.pdf). _Economics Bulletin_, 40(1), 463--472. 
 
-[3] **Silva, M.**, Da Silva, S., and Matsushita, R. (2020). [A power law in the ordering of the elements of the periodic table](https://www.sciencedirect.com/science/article/pii/S0378437119319041). _Physica A: Statistical Mechanics and Its Applications_, 548, 123408.
+[3] Da Silva, S., Matsushita, R., and **Silva, M.**. (2020). [A power law in the ordering of the elements of the periodic table](https://www.sciencedirect.com/science/article/pii/S0378437119319041). _Physica A: Statistical Mechanics and Its Applications_, 548, 123408.
 
 [2] Garcia, A.S., **Silva, M.R.**, Meurer, R. (2019). [The Impact of Monetary Policy in Banks Balance Sheets: Evidence for Brazil (in Portuguese)](https://portalrevistas.ucb.br/index.php/rbee/article/view/10934). _Revista Brasileira de Economia de Empresas (Brazilian Journal of Business Economics)_, 19 (2).
 
