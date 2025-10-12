@@ -7,7 +7,7 @@ permalink: /research/
 **** 
 
 ****
-## <u>Work in Progress</u>
+## <u>Working Papers</u>
 
 - Morana, C., Chauvet, M., and **Silva, M.** (2025). [Extreme Weather in Europe: Determinants and Economic Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086307). _R&R_.
 
