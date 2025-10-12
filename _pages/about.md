@@ -9,8 +9,8 @@ redirect_from:
 
 Welcome!
 
-I am a Visiting Assistant Professor of Economics at [Union College](https://www.union.edu/economics).
+I am a PhD Candidate in Economics at UC Riverside.
 
-My research interests are in Macroeconomics, Finance, Applied Econometrics and Climate Change.
+My research interests are in Applied Econometrics, Macroeconomics, and Finance.
 
 My CV can be found [here](https://murilo-silva.com/files/cv_murilo_silva.pdf).
