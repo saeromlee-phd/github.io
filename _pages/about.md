@@ -11,6 +11,6 @@ Welcome!
 
 I am a PhD Candidate in Economics at UC Riverside.
 
-My research interests are in Applied Econometrics, Macroeconomics, and Finance.
+My research interests are in Econometrics, Applied Econometrics, Macroeconomics, and Finance.
 
-My CV can be found [here](https://murilo-silva.com/files/cv_murilo_silva.pdf).
+My CV can be found [here](https://saeromlee-phd.github.io/github.io/files/cv_saerom_lee.pdf).
