@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Murilo Silva"
+title                    : "Saerom Lee"
 title_separator          : "-"
-name                     : &name "Murilo Silva"
-description              : &description "Visiting Assistant Professor of Economics, Union College"
-url                      : https://murilo-silva.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Saerom Lee"
+description              : &description "PhD Candidate in Economics at UC Riverside"
+url                      : https://saeromlee-phd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "murilors10/murilosilva.github.io"
+repository               : "saeromlee-phd/github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,21 @@ repository               : "murilors10/murilosilva.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Murilo Silva"
+  name             : "Saerom Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Visiting Assistant Professor of Economics, Union College"
-  location         : "Schenectady, NY"
+  bio              : "PhD Candidate in Economics at UC Riverside"
+  location         : "Riverside, CA"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "silvam@union.edu" 
+  email            : "slee839@ucr.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=_CRoRd4AAAAJ&hl=pt-BR&oi=sra"
+  googlescholar    : 
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Murilo-Silva-29"
+  researchgate     : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : murilo-r-silva # Username
+  linkedin         :  # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -111,7 +111,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification : google37083fe2c3b51e10
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
