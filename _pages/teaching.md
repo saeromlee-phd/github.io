@@ -9,81 +9,77 @@ author_profile: true
 
 ## Awards
 
-- Outstanding Teaching Assistant Award, UC Riverside (2024)
+- Outstanding Teaching Assistant Award, UC Riverside (2023-2025)
 
 ****
 
 ## Instructor, UC Riverside
 
-- Introduction to Microeconomics (Summer 2022)
-- Industrial Organization (Summer 2023)
-- Managerial Economics (Summer 2024)
-- Intermediate Macroeconomics (Summer 2024)
+- Mini-Statistics (Graduate level, Summer 2025) 
+- Introduction to Macroeconomics (Summer 2025)
+- Statistics for Economics (Summer 2024)
 
 ****
 
 ## Teaching Assistant, UC Riverside
 
-- Macroeconomic Theory (Graduate level, Winter 2023)
-- Intermediate Macroeconomics (Spring 2022, Fall 2022, Spring 2023, Fall 2023)
-- Stock Market (Spring 2024)
-- Statistics for Economics (Summer 2022)
-- Introduction to Macroeconomics (Fall 2021, Winter 2022)
-- Introduction to Microeconomics (Winter 2024)
+- Stock Market (Spring 2025, Fall 2025)
+- Statistics for Economics (Winter 2024, Fall 2024, Summer 2024, Summer 2025)
+- Introductory Econometrics (Winter 2023, Summer 2025)
+- Intermediate Macroeconomics (Winter 2022, Fall 2022, Summer 2022, Spring 2023, Fall 2023, Spring 2024, Winter 2025)
+- Introduction to Macroeconomics (Summer 2023, 
+- Introduction to Microeconomics (Fall 2021, Spring 2022, Summer 2025)
 
 ****
 
 ## Selected Comments from Students
 
-- Every time Mr. Silva walked into class he would say "hello" to everyone which immediately brings a warm and friendly atmosphere before
-even starting class and I enjoyed that. Secondly, Mr. Silva would try to recap where we were as a class in the beginning of lecture to make sure everyone was on the same page. The material was presented in a simple and not overly complicated way. Just straight to the point and only the content that we needed to know for class. The materials that we did learn were also related to real life events and companies which I think help people to feel more motivated to learn the material. Thank you.
+- Saerom was an effective instructor who explained the content very clearly, even in a virtual format. She was well-organized and made sure that students understood the key concepts, which really supported my learning. Her communication was always clear and professional, and she structured the exams in a way that was both fair and reflective of the material we covered. Overall, she created a positive and balanced learning experience.
 
-- Excellent class. The course and teaching style was very straightforward. Very fair tests and grading. There were no surprise material
-questions on the exams. Every part of the material was reflected on the exams as expected and as we went over in class. Review session
-was very helpful and encouraged clarifications and questions. Instructor was very approachable.
+- As this was an online course, I really appreciated that the professor pre-posted lecture videos every week. The videos were very clear, wellorganized, and easy to follow. The syllabus was accurate and laid out expectations well, and the assignments aligned closely with the material covered in the lectures. The workload was very manageable, and I never felt overwhelmed. I also appreciated that the professor was fair and supportive with grading, even providing opportunities for extra credit. Overall, this course went well.
 
-- I really benefited from both having the lecture notes and from you walking us through the material in detail step-by-step in class. You have great pacing, so you made it feel as though the class wasn't rushed even though this session was 2x speed. Since the practice problems you went through in class and homework were representative of the class, I was able to use them to study.
+- Amazing teacher is very patient and knowledgeable with my questions and gives really good feedback when I show her If I did an assignment correctly or not. Great teacher.
 
-- Could be a future professor from how professional, respectful, and nice he is.
+- Saerom is a great professor. The way she explains statistics is easy to understand and she provides a lot of support for students to succeed. The lectures are also recorded for students and she answers questions thoroughly as well as being flexible with our schedule despite being a summer course.
 
-- Murilo Silva was extremely helpful. He made three-hour classes feel shorter than they were and provided plenty of resources for us to study for exams. He also went over many examples during class that helped us out a lot.
+- I really appreciated Saerom's flexibility and her helpfulness in responding to my emails and questions. Whenever she gets into her discussion, she immediately gets right to work, and is quickly able to hop on mistakes or change the way something is explained. I appreciate her work in going over the details of the questions given in class, and her ability to thoroughly go over them.
 
-- Murilo Silva is a great TA, love how I am able to ask him questions when I do not understand the lecture without feeling nervous. Since I typically don't because I am extremely shy and feel as if I am asking a rhetorical question. Yet, with this TA I don't. He is also very knowledgeable and will make sure you full understand before moving on.
+- The material used to teach is helpful. She further supplements my learning of microeconomics and helps to clear up any confusion I have on any problems.
 
-- Fantastic TA, Best TA I've ever had. He is extremely approachable, friendly, and always willing to help. Really takes his time during office hours to make sure I understand the material. His English is great and very clear (he barely has an accent). He taught the material very well, and was willing to answer questions beyond the scope of the class which was amazing. He really taught lessons for life. Additionally, he always replied to emails very quickly. He provided a lot of in-depth feedback on homeworks and tests, even if the homeworks were just graded for completion. He is overall just a great and helpful TA, and made the class very enjoyable.
+- She is a good teacher, clearly knows the material, and explains the topics in a way that is easy to absorb the material.
 
-- Mr. Silva has been one of the most amazing TAs I have had since I began my college education. He went over the past homework
-assignments which was very helpful for studying for the exams. In addition, he would help highlight the most important problems to study on the homework practice sets. In class, he was able to explain each question with ease and explained it in a way that was very easy to follow. If anyone had a question he always knew the answer and was very approachable during discussions. He did not waste time going over
-information that was not important and was able to use the short time he had every week very efficiently. His demeanor and excellent
-knowledge of topics would make him an amazing lecturer if he chooses to go down that path. If he ended up teaching an economics course I
-would definitely take it as he was that excellent as a TA. I could not rate him highly enough in his expertise as a resource to help me succeed in this class.
+- Saerom Lee is very helpful, providing help on homework and reviewing the content in the course. I enjoyed having Saerom in discussion section and found her to be helpful when experiencing difficulties in homework, she explains the content clearly.
 
-- Murilo is very kind and thorough when demonstrating how to solve a problem. He explains why we have to use certain formulas for certain
-problems, and also explains exactly what the question is asking for. He always encourages us to ask questions if we don't understand
-something, and is more than willing to review a problem anyone needs help on.
+- I really appreciate my TA Saerom Lee,because her notes were extremely helpful for Exam 12 and the Final. They made a big difference in my preparation. I attended every class and always paid attention. Her explanations were clear, detailed, and full of important content that truly helped me understand the material. I’m very grateful for her support and the effort she put into helping us.
 
-- Murilo Silva is extremely helpful and always encourages students to do their best! I really enjoyed taking the lab and got a chance to meet new students! It was really fun to learn about the new statistics formulas and to connect it back to Economics. He is really hardworking and always makes sure that the students are always included!
+- Extremely prepared and helpful in emails when i asked about questions about class or about exams. You could tell she cared about the class.
 
-- I really liked this TA, he is a nice person, but more importantly, he holds a great understanding for the material and helps breakdown complex topics into simple and fun lessons. He is the reason I have an A+ in the class. Thank you Murilo!!
+- I think the professor's class is very interesting and I have learned a lot of knowledge from it.
 
-- One of the best TAs at UCR, in my opinion. Always willing to help and made sure to answer all of our questions. Responded to emails really fast, even on weekend which is awesome.
+- Second time with this TA. Overall good TA, very prepared for the classes and cares a lot about students success.
 
-- He is great. I understood the class material much better after attending office hours and discussion. He was patient and easy to understand in emails. He is good with names which is also nice because he remembers the people he helps.
+- My TA offers clear notes for each homework explanation.
 
-- Murilo was one of the best discussion instructors I had this quarter. He would even write down the key concepts before class started. Murilo also allowed students to be engaged with the correct answer. I felt like I knew how to excel in the class because of the way I performed during the discussion.
+- Saerom put so much effort into this course and I thank her a lot for it. She is very well organized and provides an outlet to come to if I didn't understand any material. She is very considerate of students and is very helpful. I hope she continues to provide herself as help as she did for me.
 
-- This guy is amazing. He was more useful than the professor at explaining and breaking down the material. So greatful to have had such a
-good TA on my first quarter here at UCR. Keep up the great work!!
+- Saerom's TA session has been pivotal to my success in this class. She goes above and beyond in ensuring that all our questions and any confusions are addressed. Her teaching style is very clear, often more clear and digestible to me than the professor's. I found that I benefited greatly from attending every one of her discussion sections. Saerom has been kind to me from day one at UCR and I will miss being in her class.
 
-- He was one of my most caring and attentive TAs during Winter Quarter. He clearly knows the content he teaches, and he creates a safe
-environment for students to ask questions and explore different areas of the subject. Going to his discussion sections was always a pleasure!
+- best TA ever, very efficient with time and gives great explanations.
 
-- An amazing TA overall, very helpful and communicative. Went above and beyond to assist students to help us understand the course
-material and it was very helpful. No complaints or improvements suggested, thank you for being so helpful!
+- The student instructor was very helpful in aiding to my understanding of this course. The explanations and notes on the discussion assignments was key in being able to understand all of the topics.
 
-- His discussion are really useful he makes context easy to understand and makes good use of his discussions by providing helpful acedemic tools. One of the best ta I've ever had. He's really good at explaining even complicated topics and is well prepared and knows what he's talking about.
+- Overall I think she was a great teaching assistant. She explained the material pretty well, was helpful during office hours, and was pretty nice and friendly. She would sometimes give me words of affirmation and was always willing to reexplain things and help clarify, it was really pleasant. She really cared about each students success and really was passionate about her job.
 
-- TA Silva is a great TA. He helped me understand every question in the homework and actively answered questions raised by students. This
-allowed me to be well-prepared before the exam. Overall, the learning experience in TA Silva's course was great.
+- Saerom Lee is truly passionate about teaching and has a remarkable ability to make complex macroeconomic concepts easy to understand. Her enthusiasm for the subject is evident in every lesson, engaging students and fostering a deeper understanding of the material. Lee not only clarifies difficult theories but also encourages questions and interactive learning, making the classroom a dynamic and supportive environment for all students. Her dedication goes beyond mere instruction; it's about inspiring a genuine interest and understanding in macroeconomics.
 
-- He was always super nice and you could clearly tell he cared a lot about his students. His discussions were incredibly helpful and he did a very nice job at explaining why answers were wrong and why they were right. He really contributed to my understanding of the material. He always went above and beyond in discussion when it came to writing out the formulas, equations, and definitions on the white board. I’m glad he was my TA for a class that was at times pretty difficult.
+- Saerom was an amazing TA for this course. Her knowledge for the material was really shown. She took a lot of time to work through all the questions and make sure we understood the questions before she moved on. She was understanding and provided alternate ways to think about questions if we were confused. Saerom's lab sections were very well organized. She had a really good strategy to show the questions on zoom while working out how to do them on the whiteboard. She was also very helpful for study tips going into the midterms and final. She provided extra office hours so that we could get extra questions answered. Additionally, she was always available by email and encouraged students to not hesitate to reach out. She responded quickly and thoroughly to all of my emails and was extremely patient and helpful. Saerom explained all the material in a simple and easy to understand way. She has a strong grasp on the material and it really showed. She was an excellent TA and I would recommend her to anyone taking this class.
+
+- Saerom Lee was an excellent TA and I attended her lab more than any other section of this course. I found that her method of teaching was the most effective way for me to grasp the mathematical concepts of the course and I could supplement my theoretical understanding with the other sections. In class she was effective and thorough in covering the assigned sections and I would like to have her as a TA in the future.
+
+- Saerom is accessible through email, and responds within the day, which I found very helpful when needing to schedule last minute review sessions with her in order to review for the midterm or final exams. She is very helpful and made sure that I understood the material, even when she would have to come up with various ways to explain a problem to me in order for me to understand the concept. I was very grateful that I had her for my TA for the introduction to macroeconomics course especially since I didn't really understand macroeconomics in the beginning, but now thanks to her I'm able to have a grasp on macroeconomics.
+
+- Saerom Lee is a very good educator. She always came to discussion well prepared with questions and topics to go over, which she always sent us ahead of time. She does a good job at breaking down information and making it easier to understand. She was readily available during class and office hours. She also accommodated to holidays to make sure that we were not missing out on valuable class time.
+
+- The written detailed and compact notes given in the discussion helped recap what was taught during the week's lectures. The practice problems gave me a better understanding and practice for what's to come in upcoming exams. She explained the theories given well and explained why, how, and what effects they have on our economy and on ourselves.
+
+- The light of my life in this class, she explains everything very clearly and even if I don't understand a concept, I leave the class understanding the concept through her teachings. Very good TA.
