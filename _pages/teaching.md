@@ -58,13 +58,15 @@ author_profile: true
 
 - Second time with this TA. Overall good TA, very prepared for the classes and cares a lot about students success.
 
-- My TA offers clear notes for each homework explanation.
+- She is absolutely fantastic! Being completely honest, I actually learned more in her discussions than the actual lecture from the professor unfortunately. I hope to have her again for different topics as a TA!
 
 - Saerom put so much effort into this course and I thank her a lot for it. She is very well organized and provides an outlet to come to if I didn't understand any material. She is very considerate of students and is very helpful. I hope she continues to provide herself as help as she did for me.
 
 - Saerom's TA session has been pivotal to my success in this class. She goes above and beyond in ensuring that all our questions and any confusions are addressed. Her teaching style is very clear, often more clear and digestible to me than the professor's. I found that I benefited greatly from attending every one of her discussion sections. Saerom has been kind to me from day one at UCR and I will miss being in her class.
 
 - best TA ever, very efficient with time and gives great explanations.
+
+- This TA did a very thorough job explaining the material and first would have us try practice questions and would always take into account our input, being respectful when we were incorrect and encouraging us to participate and reason through the questions. I found the discussion section to be very helpful in preparing for the class and applied what we learned in lecture.
 
 - The student instructor was very helpful in aiding to my understanding of this course. The explanations and notes on the discussion assignments was key in being able to understand all of the topics.
 
