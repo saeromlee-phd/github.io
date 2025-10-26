@@ -12,7 +12,7 @@ title                    : "Saerom Lee"
 title_separator          : "-"
 name                     : &name "Saerom Lee"
 description              : &description "PhD Candidate in Economics at UC Riverside"
-url                      : https://saeromlee-phd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://saeromlee-phd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saeromlee-phd/saeromlee-phd.github.io"
 
