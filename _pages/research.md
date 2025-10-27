@@ -11,20 +11,14 @@ permalink: /research/
 
 <!-- - Morana, C., Chauvet, M., and **Silva, M.** (2025). [Extreme Weather in Europe: Determinants and Economic Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086307). _R&R_.-->
 
-- Grittersova, J., Mavroeidi, E., and **Silva, M.** (2025). Fifty Shades of Green: Central Bank Communication About Climate Change And Inflation Expectations. _Submitted_.
+- **Lee, S.**, and Lee, T. (2025). Solving the Forecast Combination Puzzle. _Submitted_.
 
-- **Silva, M.** (2025). Climate Disaster Risk and Stock Returns.
+-  **Lee, S.**, and Lee, T. (2025). How to Summarize the Survey of Professional Forecasters?
 
 **** 
 ## <u>Journal Publications</u>
 
-[4] **Silva, M.**, and Da Silva, S. (2020). [The Brazilian granular business cycle](http://www.accessecon.com/Pubs/EB/2020/Volume40/EB-20-V40-I1-P40.pdf). _Economics Bulletin_, 40(1), 463--472. 
-
-[3] Da Silva, S., Matsushita, R., and **Silva, M.**. (2020). [A power law in the ordering of the elements of the periodic table](https://www.sciencedirect.com/science/article/pii/S0378437119319041). _Physica A: Statistical Mechanics and Its Applications_, 548, 123408.
-
-[2] Garcia, A.S., **Silva, M.R.**, Meurer, R. (2019). [The Impact of Monetary Policy in Banks Balance Sheets: Evidence for Brazil (in Portuguese)](https://portalrevistas.ucb.br/index.php/rbee/article/view/10934). _Revista Brasileira de Economia de Empresas (Brazilian Journal of Business Economics)_, 19 (2).
-
-[1] **Silva, M.**, and Da Silva, S. (2019). [Regressive Prediction Is the Best Way to Forecast Sports Outcomes: Evidence from Brazilian Soccer](https://www.scirp.org/journal/paperinformation?paperid=90954). _Open Access Library Journal_, 6 (3), 1--7.
+[1] Chah, E., and **Lee, S.**. (2021). [The Effect of Real Estate Shock on Consumption: Evidence from Panel Data]([https://www.scirp.org/journal/paperinformation?paperid=90954](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002681496)). _The Journal of Women and Economics_, 17(4), 59-85.
 
 
 
