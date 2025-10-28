@@ -11,7 +11,7 @@ permalink: /research/
 
 <!-- - Morana, C., Chauvet, M., and **Silva, M.** (2025). [Extreme Weather in Europe: Determinants and Economic Impact](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5086307). _R&R_.-->
 
-- **Lee, S.**, and Lee, T. (2025). [Solving the Forecast Combination Puzzle][([https://www.scirp.org/journal/paperinformation?paperid=90954](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002681496](https://economics.ucr.edu/repec/ucr/wpaper/202514.pdf))). _Submitted_.
+- **Lee, S.**, and Lee, T. (2025). [Solving the Forecast Combination Puzzle](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002681496](https://economics.ucr.edu/repec/ucr/wpaper/202514.pdf)). _Submitted_.
 
 -  **Lee, S.**, and Lee, T. (2025). How to Summarize the Survey of Professional Forecasters? _Submitted_.
 
