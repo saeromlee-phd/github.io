@@ -20,6 +20,6 @@ permalink: /research/
 **** 
 ## <u>Journal Publications</u>
 
-[1] Chah, E., and **Lee, S.**. (2021). [The Effect of Real Estate Shock on Consumption: Evidence from Panel Data]([https://www.scirp.org/journal/paperinformation?paperid=90954](https://kiss.kstudy.com/Detail/Ar?key=3854602)). _The Journal of Women and Economics_, 17(4), 59-85.
+[1] Chah, E., and **Lee, S.**. (2021). [The Effect of Real Estate Shock on Consumption: Evidence from Panel Data](https://kiss.kstudy.com/Detail/Ar?key=3854602). _The Journal of Women and Economics_, 17(4), 59-85.
 
 
