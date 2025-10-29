@@ -16,7 +16,7 @@ permalink: /research/
 -  **Lee, S.**, and Lee, T. (2025). [How to Summarize the Survey of Professional Forecasters?](https://economics.ucr.edu/repec/ucr/wpaper/202515.pdf). _Submitted_.
 
 ## <u>Work in Progress</u>
-\ **Lee, S.** Improving an Index Fund: Managing Active Portfolio by Idiosyncratic Components
+- **Lee, S.** Improving an Index Fund: Managing Active Portfolio by Idiosyncratic Components
 
 **** 
 ## <u>Journal Publications</u>
