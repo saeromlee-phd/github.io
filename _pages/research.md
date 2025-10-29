@@ -13,9 +13,10 @@ permalink: /research/
 
 - **Lee, S.**, and Lee, T. (2025). [Solving the Forecast Combination Puzzle](https://economics.ucr.edu/repec/ucr/wpaper/202514.pdf). _Submitted_.
 
--  **Lee, S.**, and Lee, T. (2025). How to Summarize the Survey of Professional Forecasters? _Submitted_.
+-  **Lee, S.**, and Lee, T. (2025). [How to Summarize the Survey of Professional Forecasters?](https://economics.ucr.edu/repec/ucr/wpaper/202515.pdf). _Submitted_.
 
-## <u>Working Papers</u>
+## <u>Work in Progress</u>
+\ **Lee, S.** Improving an Index Fund: Managing Active Portfolio by Idiosyncratic Components
 
 **** 
 ## <u>Journal Publications</u>
