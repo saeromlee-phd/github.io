@@ -9,7 +9,7 @@ author_profile: true
 
 ## Awards
 
-- Outstanding Teaching Assistant Award, UC Riverside (2023-2025)
+- Outstanding Teaching Assistant Award, UC Riverside (2023, 2024, 2025)
 
 ****
 
